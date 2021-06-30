@@ -1,0 +1,24 @@
+#include <stdio.h>
+ 
+//I will attempt the weekend challenge even though it is out of the time slot. 
+//Josh Falkenberg Attempt 1
+//needed to have some code under int main void.  Not sure what brackets would do in this slashed up area. 
+//Why do 2 // allow for a sentence which is out of the code realm?
+//Seems that without the // anything written appears as code. int main(void) 
+//Ps the attempt number keeps escalating.
+ 
+ 
+int main(void) {
+	//
+	printf("I can write in here to get an out put back");
+	printf("how do you get a space between words?");
+	//I found out that a space is t\ and a new line is \n
+	//pretty frustrating to have the code bounce back as often as it does for having the slightest 
+	//digit out or bracket not exisiting where it should.  I guess that is math though, and without the 
+	//proper input the function doesn't run.  Haha i nearly missed my forward slashes before proof reading
+	printf("Hello World!!!!!!!");
+	printf("I think I found out that\tdoes or more importantly \ncreates a new line");
+	printf("H\tE\tL\tL\tL\tO\nW\nO\nR\nL\nD\!!!!\nWhat's\tYour\tPlans\tToday?");
+ 
+	return 0;
+}
